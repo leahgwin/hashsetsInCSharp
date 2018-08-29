@@ -8,10 +8,6 @@ namespace sets
     {
         static void Main(string[] args)
         {
-            // Use the UnionWith() method on Showroom to add in the two models you added to UsedLot.
-            // You've sold one of your cars. Remove it from the set with the Remove() method.
-
-
             // Create an empty HashSet named Showroom that will contain strings.
 
             HashSet<string> Showroom = new HashSet<string> { };
@@ -38,6 +34,19 @@ namespace sets
             UsedLot.Add("Model X");
             UsedLot.Add("Model S");
 
+            // Use the UnionWith() method on Showroom to add in the two models you added to UsedLot.
+            Showroom.UnionWith(UsedLot);
+            foreach (String model in Showroom)
+            {
+                Console.WriteLine(model);
+            }
+            // You've sold one of your cars. Remove it from the set with the Remove() method.
+            Showroom.Remove("Pilot");
+            Console.WriteLine("finished list:");
+            foreach (String model in Showroom)
+            {
+                Console.WriteLine(model);
+            }
 
 
         }

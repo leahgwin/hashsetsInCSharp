@@ -1,0 +1,11 @@
+/Users/Leah/workspace/csharp/exercises/sets/obj/Debug/netcoreapp2.1/sets.csprojAssemblyReference.cache
+/Users/Leah/workspace/csharp/exercises/sets/obj/Debug/netcoreapp2.1/sets.csproj.CoreCompileInputs.cache
+/Users/Leah/workspace/csharp/exercises/sets/obj/Debug/netcoreapp2.1/sets.AssemblyInfoInputs.cache
+/Users/Leah/workspace/csharp/exercises/sets/obj/Debug/netcoreapp2.1/sets.AssemblyInfo.cs
+/Users/Leah/workspace/csharp/exercises/sets/bin/Debug/netcoreapp2.1/sets.deps.json
+/Users/Leah/workspace/csharp/exercises/sets/bin/Debug/netcoreapp2.1/sets.runtimeconfig.json
+/Users/Leah/workspace/csharp/exercises/sets/bin/Debug/netcoreapp2.1/sets.runtimeconfig.dev.json
+/Users/Leah/workspace/csharp/exercises/sets/bin/Debug/netcoreapp2.1/sets.dll
+/Users/Leah/workspace/csharp/exercises/sets/bin/Debug/netcoreapp2.1/sets.pdb
+/Users/Leah/workspace/csharp/exercises/sets/obj/Debug/netcoreapp2.1/sets.dll
+/Users/Leah/workspace/csharp/exercises/sets/obj/Debug/netcoreapp2.1/sets.pdb

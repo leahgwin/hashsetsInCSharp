@@ -63,7 +63,16 @@ namespace sets
             Console.WriteLine(clone.Count);
 
             // Now you're ready to buy the cars in the junkyard. Use the UnionWith() method to combine the junkyard into your showroom.
+            Showroom.UnionWith(Junkyard);
+            Console.WriteLine("showroom combo:");
+            foreach (String model in Showroom)
+            {
+                Console.WriteLine(model);
+            }
+
             // Use the Remove() method to remove any cars that you acquired from the junkyard that you don't want in your showroom.
+            Showroom.Remove("Taurus");
+
 
 
         }
